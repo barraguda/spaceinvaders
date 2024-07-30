@@ -1,0 +1,15 @@
+[
+    {
+        "process_name": "spaceinvaders",
+        "process_wasm_path": "/spaceinvaders.wasm",
+        "on_exit": "Restart",
+        "request_networking": false,
+        "request_capabilities": [
+            "http_server:distro:sys",
+	    "vfs:distro:sys",
+	    "homepage:homepage:sys"
+        ],
+        "grant_capabilities": [],
+        "public": true
+    }
+]

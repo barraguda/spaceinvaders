@@ -1,0 +1,18 @@
+{
+    "name": "spaceinvaders",
+    "description": "another nokia banger",
+    "image": "https://i.imgur.com/QqoEYwB.png",
+    "properties": {
+        "package_name": "spaceinvaders",
+        "current_version": "0.1.0",
+        "publisher": "bigsnake1.os",
+        "mirrors": ["bigsnake1.os"],
+        "code_hashes": {
+            "0.1.0": "4465f090fe2ba24b06f1780cbcc3ead129d259eeab344ea1940f762f21c8aff7"
+        },
+        "wit_version": 0,
+        "dependencies": []
+    },
+    "external_url": "",
+    "animation_url": ""
+}
