@@ -4,12 +4,11 @@
     "image": "https://i.imgur.com/QqoEYwB.png",
     "properties": {
         "package_name": "spaceinvaders",
-        "current_version": "0.1.1",
+        "current_version": "0.1.9",
         "publisher": "bigsnake1.os",
         "mirrors": ["bigsnake1.os"],
         "code_hashes": {
-	    "0.1.0": "f5d374ab50e66888a7c2332b22d0f909f2e3115040725cfab98dcae488916990",
-	    "0.1.1": "9724be33a6b2af18334253776b02e01a91aee777483fde642498a9b59f0f82b8"
+	    "0.1.9": "dd3721dfc66c6bf96e9d3313b70e939b891f460000f79f47fa6bf0d37e14a894"
         },
         "wit_version": 0,
         "dependencies": []
