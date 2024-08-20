@@ -8,7 +8,7 @@ wit_bindgen::generate!({
 
 call_init!(init);
 fn init(our: Address) {
-    println!("--öoö--");
+    println!("--öoöoö--");
 
     http::serve_index_html(&our, "ui", false, false, vec!["/"]).unwrap();
     homepage::add_to_homepage("space invaders", Some(SPACE_SVG), Some("/"), None);
