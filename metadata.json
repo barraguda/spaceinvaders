@@ -6,7 +6,7 @@
         "package_name": "spaceinvaders",
         "current_version": "0.2.0",
         "publisher": "bigsnake1.os",
-        "mirrors": ["bigsnake1.os"],
+        "mirrors": ["bigsnake1.os", "https://github.com/bitful-pannul/spaceinvaders/raw/49e47395253a33d5451b0efb183e6931698f7d76/spaceinvaders:bigsnake1.zip"],
         "code_hashes": {
 	    "0.2.0": "ff9d7855f43cf11b566a177f603b097b286016fd1c87abb3c5e49b0393892880"
         },
