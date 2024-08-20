@@ -3,7 +3,7 @@
         "process_name": "spaceinvaders",
         "process_wasm_path": "/spaceinvaders.wasm",
         "on_exit": "Restart",
-        "request_networking": false,
+        "request_networking": true,
         "request_capabilities": [
             "http_server:distro:sys",
 	    "vfs:distro:sys",
